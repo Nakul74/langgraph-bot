@@ -76,5 +76,4 @@ docker build -t langchain-qna-bot .
 docker run -d -p 8080:8080 langchain-qna-bot
 ```
 
-
 ---
